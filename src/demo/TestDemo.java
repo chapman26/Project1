@@ -9,4 +9,5 @@ public class TestDemo {
 		System.out.println("Task 2 testing pull");
 	}
 
+	//Today is Friday
 }
