@@ -13,4 +13,6 @@ public class TestDemo {
 	}
 
 	//Today is Friday
+
+	//Practice is fun
 }
